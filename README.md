@@ -31,6 +31,9 @@ An ESP32-based IV drip drop counter designed using KiCad.
 - `.kicad_pcb` — PCB layout
 - `.kicad_pro` — Project settings
 
+## Schematic
+![IR Drip Counter schematic](schematic.png)
+
 ## Project Status
 PCB design and hardware development in progress.
 
