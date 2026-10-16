@@ -1,5 +1,3 @@
-# IR-Drip-Counter
-ESP32-based IV drip drop counter designed using KiCad.
 # IR Drip Counter
 
 An ESP32-based IV drip drop counter designed using KiCad.
@@ -30,9 +28,6 @@ An ESP32-based IV drip drop counter designed using KiCad.
 - `.kicad_sch` — Circuit schematic
 - `.kicad_pcb` — PCB layout
 - `.kicad_pro` — Project settings
-
-## Schematic
-![IR Drip Counter schematic](schematic.png)
 
 ## Project Status
 PCB design and hardware development in progress.
