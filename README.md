@@ -32,6 +32,22 @@ An ESP32-based IV drip drop counter designed using KiCad.
 ## Project Status
 PCB design and hardware development in progress.
 
+## Circuit Schematic
+
+![Circuit Schematic](schematic.png)
+
+## Modified Circuit Schematic
+
+![Modified Schematic](modified_schematic.png)
+
+## PCB Layout
+
+![PCB Layout](pcb_layout.png)
+
+## 3D PCB View
+
+![3D PCB View](3D%20PCB%20View.png)
+
 ## Disclaimer
 This is an educational prototype, not a medical-grade device.
 It must not be used to make clinical decisions or control patient fluid delivery.
